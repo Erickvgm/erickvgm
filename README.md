@@ -32,10 +32,7 @@
 <h3 align="left">📫 Vamos conversar?</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/seu-user" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/érick-vinicius-gomes-martins-69204236a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
